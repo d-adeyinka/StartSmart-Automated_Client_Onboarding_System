@@ -44,12 +44,7 @@
   </section>
 
   <section>
-    <h2>Setup & Deployment</h2>
-    <p>Deployment typically takes <strong>1–2 days</strong>, depending on your existing systems. The process begins with a short consultation to understand your workflows, followed by configuration in <strong>n8n</strong>, <strong>Google Forms</strong>, <strong>Google Sheets</strong>, <strong>Gmail</strong>, <strong>Google Drive</strong>, and <strong>Google Calendar</strong>. Once configured, the workflow runs fully automatically and can be tested live before going into production.</p>
-  </section>
-
-  <section>
-    <h2>Requirements</h2>
+    <h2>Tech Stack</h2>
     <ul>
       <li>Active Google account with access to Forms, Drive, Sheets, Gmail, and Calendar.</li>
       <li>Deployed n8n instance (self-hosted or cloud) for workflow orchestration.</li>
@@ -68,11 +63,6 @@
         <li>Follow-up emails increased onboarding completion rates by <strong>40%</strong> within the first month.</li>
       </ul>
     </div>
-  </section>
-
-  <section>
-    <h2>Post-Deployment & Support</h2>
-    <p>Every deployment includes <strong>1 week of post-deployment support</strong> for bug fixes, adjustments, and minor customizations. For businesses that need ongoing assistance, extended support or workflow optimization can be offered via milestone projects or <strong>AI-Ops-as-a-Service retainers</strong>.</p>
   </section>
 
 </body>
