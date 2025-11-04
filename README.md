@@ -1,4 +1,3 @@
-  </style>
 </head>
 <body>
   <h1>Client Onboarding Automation – “StartSmart”</h1>
