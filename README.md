@@ -66,7 +66,7 @@
   </section>
 
 ### 🎬 Demo Video
-<video src="[b27863b9-1ad3-4641-b359-8a3e789187d1.mp4](https://youtu.be/9WxklxNripQ)" controls width="700">
+[<video src="[b27863b9-1ad3-4641-b359-8a3e789187d1.mp4](https://youtu.be/9WxklxNripQ)" controls width="700">](https://youtu.be/9WxklxNripQ)
 </video>
 
 </body>
