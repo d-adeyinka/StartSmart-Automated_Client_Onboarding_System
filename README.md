@@ -68,8 +68,14 @@
 ## 📸 Screenshots
 ![N8n Workflow](<img width="1085" height="439" alt="Screenshot 2025-11-06 034134" src="https://github.com/user-attachments/assets/d0b320fc-b093-48f2-89c5-196ae377766f" />)
 
+![Email Notification to Confirm Discovery Call Schedule](<img width="861" height="470" alt="Screenshot 2025-10-28 085721" src="https://github.com/user-attachments/assets/9b498367-2bab-4cd5-9746-0aa52c875608" />)
+
+![Email Notification After Discovery Call](<img width="301" height="315" alt="Screenshot 2025-10-28 085740" src="https://github.com/user-attachments/assets/9cb15e0e-d182-4051-9535-c7dc6d059ecd" />)
+
+![Google Folder Created Using n8n Workflow](<img width="869" height="205" alt="Screenshot 2025-10-28 085757" src="https://github.com/user-attachments/assets/3d2958d9-665b-4d8e-a9a9-04e10f61b3d5" />)
+
 ### 🎬 Demo Video
-[<video src="[b27863b9-1ad3-4641-b359-8a3e789187d1.mp4](https://youtu.be/9WxklxNripQ)" controls width="700">](https://youtu.be/9WxklxNripQ)
+https://youtu.be/9WxklxNripQ
 </video>
 
 </body>
