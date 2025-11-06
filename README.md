@@ -65,6 +65,9 @@
     </div>
   </section>
 
+## 📸 Screenshots
+![N8n Workflow](<img width="1085" height="439" alt="Screenshot 2025-11-06 034134" src="https://github.com/user-attachments/assets/d0b320fc-b093-48f2-89c5-196ae377766f" />)
+
 ### 🎬 Demo Video
 [<video src="[b27863b9-1ad3-4641-b359-8a3e789187d1.mp4](https://youtu.be/9WxklxNripQ)" controls width="700">](https://youtu.be/9WxklxNripQ)
 </video>
